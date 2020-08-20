@@ -13,4 +13,4 @@ Importing SDL2 in Visual Studio:
 9. Add `SDL2.lib`, `SDL2main.lib`, `SDL_image.lib` and `libfreetype-6.lib`
 10. Hit OK and you're set up.
 ## License
-[MIT]
+[MIT](LICENSE)
